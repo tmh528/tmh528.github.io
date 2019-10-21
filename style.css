@@ -2,11 +2,13 @@ body{
 	background-color: #000000;
 	color: #FFF;
 	margin:0;
+	text-align: center;
 }
 p {
 	font-family: 'Roboto Slab', serif;
 	background: #B82601;
 	border-bottom: 5px solid #062F4F;
+	border-top: 5px solid #062F4F;
 	display:block;
 	padding: 30px;
 }
@@ -19,8 +21,10 @@ h1 {
 .even-paragraph{
 	background: #062F4F;
 	border-bottom: 5px solid #B82601;
+	border-top: 5px solid #B82601;
 }
 img{
 	float:right;
 	width: 150px;
+	margin-top: 5px;
 }
